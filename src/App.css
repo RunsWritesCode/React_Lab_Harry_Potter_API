@@ -28,6 +28,22 @@
 }
 
 img {
-  width: 50vw;
+  width: 40vw;
   border: 1px solid black;
+  padding: 4px;
+  margin: 10px;
+}
+
+body {
+  background-image: url('https://static.independent.co.uk/s3fs-public/styles/article_small/public/thumbnails/image/2017/10/24/10/hogwarts-hall.jpg');
+  align: center;
+  margin: auto;
+}
+
+
+div {
+  width: 400px;
+  margin: auto;
+  text-align: center;
+  color: white;
 }

@@ -11,6 +11,9 @@ const CharacterDetail = (props) => {
     <h3>
       {props.character.house}
     </h3>
+    <p>
+      Wand core: {props.character.wand.core}
+    </p>
   </div>
   )
 }
